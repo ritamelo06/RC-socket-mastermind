@@ -1,0 +1,7 @@
+     Last finalized game for player 123456
+Game initiated: 2024-12-19 18:50:29 with 600 seconds to be completed
+Mode: DEBUG  Secret code: RRRR
+
+     --- Transactions found: 1 ---
+Trial: RRRR, nB: 4, nW: 0 at 3s
+     Termination: WIN at 2024-12-19 18:50:32, Duration: 3

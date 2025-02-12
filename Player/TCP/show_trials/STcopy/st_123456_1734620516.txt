@@ -1,0 +1,8 @@
+
+     Active game found for player 123456
+Game initiated: 2024-12-19 15:01:52 with 600 seconds to be completed
+
+     --- Transactions found: 1 ---
+Trial: RRRR, nB: 0, nW: 0 at 3s
+
+ -- 596 seconds remaining to be completed --
