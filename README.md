@@ -4,7 +4,7 @@ Leonor Francisco,
 Rita Melo
 
 ## Descrição
-Este projeto implementa uma versão simplificada do jogo Master Mind usando a interface de sockets. Ele consiste em:
+Este projeto implementa uma versão simplificada do jogo Master Mind usando a interface de sockets. Consiste em:
 
 Game Server (GS): Um servidor responsável por gerir os jogos e responder às interações dos jogadores.
 Player Application (Player): Uma aplicação cliente que permite aos jogadores interagir com o servidor, realizar jogadas e consultar informações.
