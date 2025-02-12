@@ -1,6 +1,6 @@
 # RC Master Mind
 
-Leonor Francisco 
+Leonor Francisco, 
 Rita Melo
 
 ## Descrição
